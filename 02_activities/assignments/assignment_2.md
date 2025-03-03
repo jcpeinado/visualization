@@ -9,11 +9,24 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
 
+## Good Visualization
 
+- Retrieved from: https://en.wikipedia.org/wiki/Climate_spiral
 
+**Classification and Justification:**
+
+1. **Intuitive Design:** The spiral format leverages the cyclical nature of time, mapping each year as a loop. This design choice allows viewers to quickly grasp the acceleration of temperature changes, as the spirals expand outward more rapidly in recent years.
+
+2. **Effective Use of Color:** A gradient color scheme transitions from cooler blues to warmer reds, corresponding to temperature anomalies. This intuitive mapping aligns with common associations of color and temperature, enhancing immediate understanding.
+
+3. **Temporal Context:** By starting in 1850 and progressing to 2020, the visualization provides historical context, highlighting industrialization's impact on global temperatures.
+
+**Suggested Improvements:**
+
+1. **Interactive Features:** Incorporating interactive elements, such as tooltips displaying specific temperature data for each year or the ability to pause and examine particular periods, could enhance user engagement and understanding.
+
+2. **Annotations for Significant Events:** Adding markers or annotations for key historical events (e.g., major volcanic eruptions, implementation of environmental policies) could provide viewers with context about factors influencing temperature changes.
 
 
 
