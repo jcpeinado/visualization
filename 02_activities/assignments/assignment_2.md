@@ -9,27 +9,54 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+
+## Good Visualization: "Global Temperature Change (1850-2020)"
+
+- Retrieved from: https://en.wikipedia.org/wiki/Climate_spiral
+
+**Classification and Justification:**
+
+1. **Intuitive Design:** The spiral format leverages the cyclical nature of time, mapping each year as a loop. This design choice allows viewers to quickly grasp the acceleration of temperature changes, as the spirals expand outward more rapidly in recent years.
+
+2. **Effective Use of Color:** A gradient color scheme transitions from cooler blues to warmer reds, corresponding to temperature anomalies. This intuitive mapping aligns with common associations of color and temperature, enhancing immediate understanding.
+
+3. **Temporal Context:** By starting in 1850 and progressing to 2020, the visualization provides historical context, highlighting industrialization's impact on global temperatures.
+
+## Bad Visualization: "3D Pie Chart of Smartphone Market Share"
+
+- Retrieved from: https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/
+
+**Classification and Justification:**
+
+1. **Misleading 3D Effects:** The use of three-dimensional effects distorts perception, making it challenging to accurately compare the sizes of pie slices.
+
+2. **Lack of Clear Labels:** Slices are not directly labeled, requiring viewers to cross-reference a legend. This increases cognitive load and the potential for misinterpretation.
+
+3. **Overuse of Colors:** Each slice is assigned a different, often vibrant color, which can be overwhelming and does not necessarily aid in distinguishing categories effectively.
 
 
-
-
-
-
-
-      ```
     - How could this data visualization have been improved?  
-      ```
-      Your answer...
 
+## Good Visualization
+**Suggested Improvements:**
 
+1. **Interactive Features:** Incorporating interactive elements, such as tooltips displaying specific temperature data for each year or the ability to pause and examine particular periods, could enhance user engagement and understanding.
 
+2. **Annotations for Significant Events:** Adding markers or annotations for key historical events (e.g., major volcanic eruptions, implementation of environmental policies) could provide viewers with context about factors influencing temperature changes.
 
+## Bad Visualization
+**Suggested Improvements:**
 
+1. **Adopt a 2D Format:** Switching to a two-dimensional pie chart or, preferably, a bar chart would eliminate distortion and facilitate more accurate comparisons.
 
-      
-      ```
+2. **Direct Labeling:** Placing percentage labels directly on each segment ensures immediate clarity without the need for a separate legend.
+
+3. **Simplified Color Scheme:** Utilizing a cohesive color palette with varying shades can differentiate segments without overwhelming the viewer.
+
+4. **Provide Contextual Information:** Including a title, data source, and date range would offer necessary context, enhancing the chart's credibility and interpretability.
+
+By addressing these issues, the visualization would become more effective in conveying the intended information without misleading or confusing the audience.
+
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
