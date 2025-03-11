@@ -8,22 +8,38 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    - Python
+    - PowerBI
 
     > Who is your intended audience? 
-    
+    - Stakeholders involved in the public bidding process
+
     > What information or message are you trying to convey with your visualization? 
-    
+    - Public awarded contract trend.
+    - Top suppliers in Toronto
+    - Top industries in Toronto
+
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+    - Substantive: Correct charts, and scales. Clear labeling
+    - Perceptual: Ordering and Alignment. Avoiding misleading scales, consistent color, and legibility
+    - Aesthetic: Minimalism, clean.
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    - I have added a random seed
+
     > How did you ensure that your data visualization is accessible?  
-    
+    - Colorblind-Friendly palettes
+    - Legibel text with sufficient contrast
+    - Text description
+
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    - Suppliers, public buyers, and the community of Toronto will understand better how the resources of the city are being allocated.
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    - From past experience. Classifing categorical features, numeric features and time features (categorical).
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+    - Stakeholders from the City of Toronto.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
